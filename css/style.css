@@ -1,6 +1,6 @@
 /*********************************************************************************
 
-	Template Name: Slimfit - Shapewear E-commerce Bootstrap 4 Template
+	Template Name: Lisa - Enterprises
 	Description: A perfect template to build beautiful and unique eCommerce websites. It comes with nice and clean design.
 	Version: 1.0
 
